@@ -1,6 +1,9 @@
 ---
 tags:
   - OUKT
+  - OUKT5
+  - OUKT 5
+  - OUKT#5
 ---
 
 # osu! UK Tournament 5

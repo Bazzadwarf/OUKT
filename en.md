@@ -1,6 +1,6 @@
 # osu! UK Tournament
 
-Index page for all of the osu! UK Tournaments.
+Index page for all of the osu! UK Tournaments series.
 
 - [OUKT1](1 "osu! UK Tournament 1")
 - [OUKT2](2 "osu! UK Tournament 2")
