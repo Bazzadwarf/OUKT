@@ -50,12 +50,12 @@ The OUKT4 was run by various community members
 
 ### Spreadsheets
 
-- [Round of 128](https://docs.google.com/spreadsheets/d/1qZiUjFPov6mVWrjV1YcQ5uu05bM4zaye47aNn6GaB84/edit?usp=sharing)
-- [Round of 64](https://docs.google.com/spreadsheets/d/1IeG2a07E3Jia4iZVMQlcYTR63JLQD5yHvT12VSoU7QE/edit?usp=sharing)
-- [Round of 32](https://docs.google.com/spreadsheets/d/11KVtlKGDI3B4SwqmJcGgJxjTVPL2oA3l2scR-z0z86Q/edit?usp=sharing)
-- [Round of 16](https://docs.google.com/spreadsheets/d/1-TCmxVC2lU6GLu7WzbRUkyEbccQBFKdXRbSerrPuZq4/edit?usp=sharing)
-- [Quaterfinals](https://docs.google.com/spreadsheets/d/1RAuHAGsA2RNeNB7UzjDOFPyqslzwzcuObZn-IP-0l8U/edit?usp=sharing)
 - [Semifinals](https://docs.google.com/spreadsheets/d/1tTWeV56h2qsAgFj49NSfj6qpZCJYASM9_KiYOKBNrac/edit?usp=sharing)
+- [Quaterfinals](https://docs.google.com/spreadsheets/d/1RAuHAGsA2RNeNB7UzjDOFPyqslzwzcuObZn-IP-0l8U/edit?usp=sharing)
+- [Round of 16](https://docs.google.com/spreadsheets/d/1-TCmxVC2lU6GLu7WzbRUkyEbccQBFKdXRbSerrPuZq4/edit?usp=sharing)
+- [Round of 32](https://docs.google.com/spreadsheets/d/11KVtlKGDI3B4SwqmJcGgJxjTVPL2oA3l2scR-z0z86Q/edit?usp=sharing)
+- [Round of 64](https://docs.google.com/spreadsheets/d/1IeG2a07E3Jia4iZVMQlcYTR63JLQD5yHvT12VSoU7QE/edit?usp=sharing)
+- [Round of 128](https://docs.google.com/spreadsheets/d/1qZiUjFPov6mVWrjV1YcQ5uu05bM4zaye47aNn6GaB84/edit?usp=sharing)
 
 ## Participants
 
@@ -82,7 +82,33 @@ The OUKT4 was run by various community members
 
 ### Finals
 
-No Mappool available.
+**[Download the mappack here! (125 MB)](https://drive.google.com/open?id=1rZ91grLCKN4Mjg1tpvgMeOl4579A_LpN)**
+
+- Nomod
+  - [DragonForce - Heroes of Our Time (Jenny) \[Legend\]](https://osu.ppy.sh/beatmapsets/90716#osu/245960)
+  - [Ryu* - Sakura Mirage (Priti) \[ULTRA\]](https://osu.ppy.sh/beatmapsets/205022#osu/484036)
+  - [DM Ashura - Classical Insanity (Louis Cyphre) \[Vivacissimo\]](https://osu.ppy.sh/beatmapsets/79149#osu/229695)
+  - [Hitori Tori - perthed again (yambabom remix) (Asphyxia) \[Zapy's Extra\]](https://osu.ppy.sh/beatmapsets/268693#osu/611753)
+  - [Hige Driver join. SELEN - Dadadadadadadadadada (spboxer3) \[SPECIAL\]](https://osu.ppy.sh/beatmapsets/206750#osu/487384)
+  - [S.S.H. - Intersect Thunderbolt-Remix (7odoa) \[Exceed\]](https://osu.ppy.sh/beatmapsets/38316#osu/122693)
+  - [Mutsuhiko Izumi - Red Goose (nold_1702) \[Superable\]](https://osu.ppy.sh/beatmapsets/46239#osu/144029)
+  - [P*Light - FUNKY SUMMER BEACH (Priti) \[Ultra\]](https://osu.ppy.sh/beatmapsets/212192#osu/498989)
+  - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie) \[CRN's Extra\]](https://osu.ppy.sh/beatmapsets/58951#osu/178645)
+  - [Natsume Chiaki - Hanairo Biyori (rinsukir) \[Awaken's Challenge\]](https://osu.ppy.sh/beatmapsets/143397#osu/509510)
+- Hidden
+  - [nmk - sola (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/183267#osu/439135)
+  - [t+pazolite - cheatreal (caren_sk) \[Extra\]](https://osu.ppy.sh/beatmapsets/88180#osu/240488)
+- HardRock
+  - [Qrispy Joybox - snow prism (ktgster) \[Extreme\]](https://osu.ppy.sh/beatmapsets/132389#osu/332962)
+  - [Wotamin - Gigantic O.T.N (Star Stream) \[S.S\]](https://osu.ppy.sh/beatmapsets/80214#osu/223397)
+- DoubleTime
+  - [Eurobeat Brony - Discord (EuroChaos Mix) ft. Odyssey (ztrot) \[Utter Chaos\]](https://osu.ppy.sh/beatmapsets/37994#osu/121836)
+  - [Shihori - Magic Girl !! (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/53519#osu/163054)
+- FreeMod
+  - [Fear, and Loathing in Las Vegas - Rave-up Tonight (lightr) \[Extra\]](https://osu.ppy.sh/beatmapsets/176832#osu/425761)
+  - [Xelia - Illumiscape (Kanna) \[Extra\]](https://osu.ppy.sh/beatmapsets/43960#osu/152127)
+- TieBreaker
+  - **[gmtn. (witch's slave) - furioso melodia (Alumetorz) \[Wrath\]](https://osu.ppy.sh/beatmapsets/280107#osu/633993)**
 
 ### Semifinals
 
